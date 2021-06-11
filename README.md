@@ -1,7 +1,10 @@
-# pyproject
-This project contains simple python calculator.
-This contains addition, subtraction, multiplication, and division.
+It's GUI Calculator which is works using tkinter and python
 
-soon avg function will b added.
+You can get Visual version of calculator
 
-updated readme
+there are rooms for improvement
+
+To Run the project
+1.Clone the Repo
+2.do pip install requirements.txt
+3.Run guicalci.py with python
