@@ -7,4 +7,4 @@ there are rooms for improvement
 To Run the project
 1.Clone the Repo
 2.do pip install requirements.txt
-3.Run guicalci.py with python
+3.Run guicalci.py with python.
